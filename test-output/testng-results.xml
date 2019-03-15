@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="479728" started-at="2019-02-15T11:14:22Z" finished-at="2019-02-15T11:22:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="479728" started-at="2019-02-15T11:14:22Z" finished-at="2019-02-15T11:22:22Z">
+      <class name="com.qa.testCases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.LoginPageTest@1f36e637]" name="setUp" is-config="true" duration-ms="131632" started-at="2019-02-15T11:14:22Z" finished-at="2019-02-15T11:16:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:1, instance:com.qa.testCases.LoginPageTest@1f36e637]" name="loginTest" duration-ms="15439" started-at="2019-02-15T11:16:34Z" finished-at="2019-02-15T11:16:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.LoginPageTest@1f36e637]" name="tearDown" is-config="true" duration-ms="70" started-at="2019-02-15T11:16:49Z" finished-at="2019-02-15T11:16:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.LoginPageTest@1f36e637]" name="setUp" is-config="true" duration-ms="126584" started-at="2019-02-15T11:16:49Z" finished-at="2019-02-15T11:18:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginpageValidationTest()[pri:2, instance:com.qa.testCases.LoginPageTest@1f36e637]" name="loginpageValidationTest" duration-ms="5145" started-at="2019-02-15T11:18:56Z" finished-at="2019-02-15T11:19:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpageValidationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.LoginPageTest@1f36e637]" name="tearDown" is-config="true" duration-ms="83" started-at="2019-02-15T11:19:01Z" finished-at="2019-02-15T11:19:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.LoginPageTest@1f36e637]" name="setUp" is-config="true" duration-ms="39748" started-at="2019-02-15T11:19:01Z" finished-at="2019-02-15T11:19:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inValidEmailTest()[pri:3, instance:com.qa.testCases.LoginPageTest@1f36e637]" name="inValidEmailTest" duration-ms="5444" started-at="2019-02-15T11:19:41Z" finished-at="2019-02-15T11:19:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inValidEmailTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.LoginPageTest@1f36e637]" name="tearDown" is-config="true" duration-ms="84" started-at="2019-02-15T11:19:46Z" finished-at="2019-02-15T11:19:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.LoginPageTest@1f36e637]" name="setUp" is-config="true" duration-ms="39434" started-at="2019-02-15T11:19:46Z" finished-at="2019-02-15T11:20:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginWithNotMatchedRecoredsTest()[pri:4, instance:com.qa.testCases.LoginPageTest@1f36e637]" name="loginWithNotMatchedRecoredsTest" duration-ms="5535" started-at="2019-02-15T11:20:26Z" finished-at="2019-02-15T11:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithNotMatchedRecoredsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.LoginPageTest@1f36e637]" name="tearDown" is-config="true" duration-ms="81" started-at="2019-02-15T11:20:31Z" finished-at="2019-02-15T11:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.LoginPageTest@1f36e637]" name="setUp" is-config="true" duration-ms="39975" started-at="2019-02-15T11:20:31Z" finished-at="2019-02-15T11:21:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="forgotPasswordTest()[pri:5, instance:com.qa.testCases.LoginPageTest@1f36e637]" name="forgotPasswordTest" duration-ms="15289" started-at="2019-02-15T11:21:11Z" finished-at="2019-02-15T11:21:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPasswordTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.LoginPageTest@1f36e637]" name="tearDown" is-config="true" duration-ms="73" started-at="2019-02-15T11:21:27Z" finished-at="2019-02-15T11:21:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.LoginPageTest@1f36e637]" name="setUp" is-config="true" duration-ms="39805" started-at="2019-02-15T11:21:27Z" finished-at="2019-02-15T11:22:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ForgotPasswordToLoginPopUpSwitchTest()[pri:6, instance:com.qa.testCases.LoginPageTest@1f36e637]" name="ForgotPasswordToLoginPopUpSwitchTest" duration-ms="15194" started-at="2019-02-15T11:22:06Z" finished-at="2019-02-15T11:22:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgotPasswordToLoginPopUpSwitchTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.LoginPageTest@1f36e637]" name="tearDown" is-config="true" duration-ms="79" started-at="2019-02-15T11:22:22Z" finished-at="2019-02-15T11:22:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testCases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
